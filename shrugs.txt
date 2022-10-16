@@ -1,0 +1,71 @@
+PRODUCT ID : s-14582
+
+BRAND : Max
+
+PRICE : RS.950
+
+MATERIAL : Regular
+
+AVAILABLE SIZES : XS,M ,XL
+
+PRODUCT ID : s-97591
+
+BRAND : Kirpek
+
+PRICE : RS.860
+
+MATERIAL : Lace
+
+AVAILABLE SIZES : S ,M ,XL
+
+PRODUCT ID : s-11963
+
+BRAND : Avassa
+
+PRICE : RS.920
+
+MATERIAL : Rayon
+
+AVAILABLE SIZES : S ,M ,L
+
+PRODUCT ID : s-0210285
+
+BRAND : Max
+
+PRICE : RS.550
+
+MATERIAL : Rayon
+
+AVAILABLE SIZES : M ,L
+
+PRODUCT ID : s-76813
+
+BRAND : Generic
+
+PRICE : RS.520
+
+MATERIAL : Georgette
+
+AVAILABLE SIZES : S ,M ,XL
+
+PRODUCT ID : s-8954509
+
+BRAND : Siril
+
+PRICE : RS.840
+
+MATERIAL : Ethnic
+
+AVAILABLE SIZES : S ,M ,XL
+
+
+
+
+
+
+
+
+
+
+
+

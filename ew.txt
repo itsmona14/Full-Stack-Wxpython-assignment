@@ -1,0 +1,71 @@
+PRODUCT ID : s-14582
+
+BRAND : Soch
+
+PRICE : RS.1950
+
+MATERIAL : Designer
+
+AVAILABLE SIZES : XS,M ,XL
+
+PRODUCT ID : s-97591
+
+BRAND : Indhya
+
+PRICE : RS.1860
+
+MATERIAL : Designer
+
+AVAILABLE SIZES : S ,M ,XL
+
+PRODUCT ID : s-66090339
+
+BRAND : Women Olive
+
+PRICE : RS.2920
+
+MATERIAL : Designer
+
+AVAILABLE SIZES : S ,M ,L
+
+PRODUCT ID : s-0210285
+
+BRAND : Raymond
+
+PRICE : RS.1550
+
+MATERIAL : Designer
+
+AVAILABLE SIZES : M ,L
+
+PRODUCT ID : s-76813
+
+BRAND : Generic
+
+PRICE : RS.1520
+
+MATERIAL : Designer
+
+AVAILABLE SIZES : S ,M ,XL
+
+PRODUCT ID : s-8954509
+
+BRAND : Siril
+
+PRICE : RS.2240
+
+MATERIAL : Designer
+
+AVAILABLE SIZES : S ,M ,XL
+
+
+
+
+
+
+
+
+
+
+
+
